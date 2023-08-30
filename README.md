@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabrice Valmont</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">Développeur full-stack en apprentissage / En recherche d'alternance pour octobre 2023</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabricevalmont&label=Profile%20views&color=0e75b6&style=flat" alt="fabricevalmont" /> </p>
 
